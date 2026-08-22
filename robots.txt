@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://RayDR.github.io/resources-gbn4ms/sitemap.xml
